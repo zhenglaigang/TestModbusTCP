@@ -1,4 +1,4 @@
-package org.example.c02_ModbusMasterTcp;
+package org.example.c01_easymodbus4j;
 
 import com.github.zengfr.easymodbus4j.ModbusConfs;
 import com.github.zengfr.easymodbus4j.client.ModbusClient4TcpMaster;

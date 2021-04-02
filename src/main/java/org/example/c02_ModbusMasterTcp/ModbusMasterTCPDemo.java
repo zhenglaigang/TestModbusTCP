@@ -1,4 +1,4 @@
-package org.example.c01_easymodbus4j;
+package org.example.c02_ModbusMasterTcp;
 
 import com.digitalpetri.modbus.codec.Modbus;
 import com.digitalpetri.modbus.master.ModbusTcpMaster;
